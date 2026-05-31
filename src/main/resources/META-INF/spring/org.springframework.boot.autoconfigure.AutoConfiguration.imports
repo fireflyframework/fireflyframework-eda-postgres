@@ -1,0 +1,2 @@
+org.fireflyframework.eda.config.FireflyEdaPostgresPublisherAutoConfiguration
+org.fireflyframework.eda.config.FireflyEdaPostgresConsumerAutoConfiguration
